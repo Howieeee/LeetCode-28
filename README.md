@@ -1,2 +1,3 @@
 # LeetCode-28
-Implement strStr()
+## Implement strStr()
+https://leetcode.com/problems/implement-strstr/
